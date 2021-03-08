@@ -1,5 +1,7 @@
 # Artem Bondarik
 
+<img src="photo_2021-03-08_16-43-32.jpg" width="300" />
+
 ## Personal information
 
 * Date of Birth: 13 April 2000
