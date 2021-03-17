@@ -5,7 +5,7 @@
 ## Personal information
 * Date of Birth: 13 April 2000
 * Address: Rokossovsky Avenue, Minsk, 220101, Republic of Belarus
-* Phone number: +375-25-604-22-77
+* Phone number: +375-00-000-00-00
 * Email: 
   * a.bondarik13@gmail.com
   * artiom.mm@outlock.com
